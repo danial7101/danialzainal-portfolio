@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/E-commerce project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UKM-Outlet",
+		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	}
+}
