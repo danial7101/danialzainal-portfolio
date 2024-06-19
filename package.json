@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@firecms/neat": "^0.2.2",
-    "three.js": "^0.77.1"
-  }
-}
